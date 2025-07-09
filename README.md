@@ -18,7 +18,6 @@
 
 - `*.ipynb` — Notebook utama eksperimen, eksplorasi data, pemodelan dan visualisasi.
 - `requirements.txt` — Daftar dependensi Python yang diperlukan.
-- `LICENSE` — Lisensi proyek (MIT License).
 
 ## 🛠️ Instalasi & Menjalankan Proyek
 
